@@ -109,13 +109,15 @@ The contents of the JSON file in the below format,
 }
 ```
 
-> "github-username" should be the same one as the one you're making the pull request from.
+```
+"github-username" should be the same one as the one you're making the pull request from.
 
-> "favourite-game" can be any game that you really like.
+"favourite-game" can be any game that you really like.
 
-> "favourite-language" has to be your favourite programming language or any programming language that you really want to learn.
+"favourite-language" has to be your favourite programming language or any programming language that you really want to learn.
 
-> "favourite-color" can be any color in hex format (example: #FFF44F). You can pick any color from Google's color picker.
+"favourite-color" can be any color in hex format (example: #FFF44F). You can pick any color from Google's color picker.
+```
 
 ### 5. Making the pull request
 
