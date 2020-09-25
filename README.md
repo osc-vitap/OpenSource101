@@ -134,3 +134,7 @@ Projects that can revolutionalize the way we look at things.\
 As well as create your own for other people to appreciate and contribute to!
 
 # *Get, Set, Hack!*
+
+<p align="center">
+    <img src="assets/footercredits.png">
+</p>
