@@ -90,3 +90,45 @@ git branch
 <p align="center">
     <img src="assets/switch-branch.PNG">
 </p>
+
+### 4. Contribute!
+
+We can finally get to contributing to the repository now!\
+Now that you've switched over to another branch, change directory into contributors.
+
+Create a file with your github username with a `.json` extension.\
+Example : *dat-adi.json*
+
+The contents of the JSON file in the below format,
+```json
+{
+    "github-username": "YOUR-GITHUB-USERNAME",
+    "favourite-game": "YOUR-FAVOURITE-GAME",
+    "favourite-language": "YOUR-FAVOURITE-PROGRAMMING-LANGUAGE",
+    "favourite-color": "#FFFFFF"
+}
+```
+
+> "github-username" should be the same one as the one you're making the pull request from.
+
+> "favourite-game" can be any game that you really like.
+
+> "favourite-language" has to be your favourite programming language or any programming language that you really want to learn.
+
+> "favourite-color" can be any color in hex format (example: #FFF44F). You can pick any color from Google's color picker.
+
+### 5. Making the pull request
+
+You can add all the files that you've updated using the command `git add .`\
+Then, you commit to save the files, like how you would at a checkpoint, `git commit -m "added myself"`
+
+Now, you want to push to your fork online, that works with `git push origin branch-name`, you should now also be able to see the option to create a pull request.\
+Create the pull request and lay back and relax until you receive a notice signifying the acceptance of your pull request or, the request to modify your changes.
+
+## Open Source and it's wonders
+
+Now, that you've made your first pull request, it's time to explore the vast Open Source network, filled with projects that have ground-breaking potential.\
+Projects that can revolutionalize the way we look at things.\
+As well as create your own for other people to appreciate and contribute to!
+
+# *Get, Set, Hack!*
