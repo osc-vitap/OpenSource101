@@ -1,0 +1,55 @@
+{
+    "definitions": {},
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "Hacktoberfest",
+    "title": "Root",
+    "type": "object",
+    "required": [
+        "github-username",
+        "favourite-game",
+        "favourite-language",
+        "favourite-color"
+    ],
+    "properties": {
+        "github-username": {
+            "$id": "#root/github-username",
+            "title": "GitHub-username",
+            "type": "string",
+            "default": "",
+            "examples": [
+                "dat-adi"
+            ],
+            "pattern": "^\\S*$"
+        },
+        "favourite-game": {
+            "$id": "#root/favourite-game",
+            "title": "Favourite-game",
+            "type": "string",
+            "default": "",
+            "examples": [
+                "DOOM"
+            ],
+            "pattern": "^\\S*$"
+        },
+        "favourite-language": {
+            "$id": "#root/favourite-language",
+            "title": "Favourite-language",
+            "type": "string",
+            "default": "",
+            "examples": [
+                "Python"
+            ],
+            "pattern": "^\\S*$"
+        },
+        "favourite-color": {
+            "$id": "#root/favourite-color",
+            "title": "Favourite-color",
+            "type": "string",
+            "default": "",
+            "examples": [
+                "#212121"
+            ],
+            "pattern": "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$"
+        }
+    }
+}
