@@ -119,6 +119,14 @@ The contents of the JSON file in the below format,
 "favourite-color" can be any color in hex format (example: #FFF44F). You can pick any color from Google's color picker.
 ```
 
+### Want to add something more?
+
+If you want to add something more, maybe a project, or a program, or just a photograph you took, Maybe even showcase your website. 
+
+You can. You can even add resources or YouTube links to videos you found useful for programming.
+
+Just create a folder inside the "content sharing" directory with your GitHub name and add any file inside it. In order to add a link, just create a .txt file and add all the links and resources into it.
+
 ### 5. Committing the changes
 
 You can add all the files that you've updated using the command `git add -A`\
@@ -128,7 +136,7 @@ Now, you want to push to your fork online, that works with `git push origin bran
 
 ### 6. Updating the local repository
 
-It is important to keep your local repository updated with the project in order to avoid merge conflicts. To do this, you'll have to configure a remote for the fork and then syncing the fork.
+It is important to keep your local repository updated with the project in order to avoid merge conflicts. To do this, you'll have to configure a remote for the fork and then sync the fork.
 
 #### Configuring a Remote for the fork
 
