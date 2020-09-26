@@ -125,8 +125,17 @@ If you want to add something more, maybe a project, or a program, or just a phot
 
 You can. You can even add resources or YouTube links to videos you found useful for programming.
 
-Just create a folder inside the "content sharing" directory with your GitHub name and add any file inside it. In order to add a link, just create a .txt file and add all the links and resources into it.
+Just create a **.json** file inside the "content sharing" folder and add links to anything you want to share. 
+example :
 
+```json
+{
+    "Resources" : ["https://www.youtube.com/user/thenewboston","https://docs.github.com/"],
+    "Projects" : ["https://github.com/torvalds/linux"],
+    "Images" : ["https://tinyurl.com/y45lx6oc"],
+    "Websites" : ["https://www.google.com/"]
+}
+```
 ### 5. Committing the changes
 
 You can add all the files that you've updated using the command `git add -A`\
