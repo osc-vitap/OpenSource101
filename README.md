@@ -119,12 +119,49 @@ The contents of the JSON file in the below format,
 "favourite-color" can be any color in hex format (example: #FFF44F). You can pick any color from Google's color picker.
 ```
 
-### 5. Making the pull request
+### 5. Committing the changes
 
-You can add all the files that you've updated using the command `git add .`\
+You can add all the files that you've updated using the command `git add -A`\
 Then, you commit to save the files, like how you would at a checkpoint, `git commit -m "added myself"`
 
-Now, you want to push to your fork online, that works with `git push origin branch-name`, you should now also be able to see the option to create a pull request.\
+Now, you want to push to your fork online, that works with `git push origin branch-name`.
+
+### 6. Updating the local repository
+
+It is important to keep your local repository updated with the project in order to avoid merge conflicts. To do this, you'll have to configure a remote for the fork and then syncing the fork.
+
+#### Configuring a Remote for the fork
+
+In order to create a remote for the fork, you'll need to specify a new remote upstream repoistory (the repository you forked from) to sync with the fork. You'll be using the `git remote add` command to do that.
+
+<pre>git remote add upstream https://github.com/Open-Source-Community-VIT-AP/Hacktoberfest-2020.git</pre>
+
+**Note**: We have referenced the original repository as "upstream".
+
+#### Syncing the fork
+
+Once the remote references to the original repository you forked from, you are ready to sync changes in order to keep your local copy up to date. To do this, we use the `git fetch` command.
+
+<pre>git fetch upstream</pre>
+
+Once done, you need to switch back to the master branch, you can do this using
+
+<pre>git checkout master</pre>
+
+Now, merge changes made from the original repository's master branch with your current local master branch using
+
+<pre>git merge upstream/master</pre>
+
+<p align="center">
+    <img src="assets/repo-syncing.PNG">
+</p>
+
+### 7. Making the pull request
+
+Once your local repository is updated, you are all set to send us a pull request.
+
+To do that, just open your forked repository and click on pull request, now you can see a green button that says "New pull request".
+
 Create the pull request and lay back and relax until you receive a notice signifying the acceptance of your pull request or, the request to modify your changes.
 
 ## Open Source and it's wonders
