@@ -138,6 +138,9 @@ example :
     "Websites" : ["https://www.google.com/"]
 }
 ```
+
+**Note** : Make sure your contributions are in line with our [Code of Conduct](https://github.com/Open-Source-Community-VIT-AP/Hacktoberfest-2020/blob/master/.github/CODE_OF_CONDUCT.md).
+
 ### 5. Committing the changes
 
 You can add all the files that you've updated using the command `git add -A`\
@@ -182,6 +185,8 @@ Once your local repository is updated, you are all set to send us a pull request
 To do that, just open your forked repository and click on pull request, now you can see a green button that says "New pull request".
 
 Create the pull request and lay back and relax until you receive a notice signifying the acceptance of your pull request or, the request to modify your changes.
+
+**Note** : If you have any question regarding any of the steps above or about anything related to this repository, just create an issue.
 
 ## Open Source and it's wonders
 
