@@ -1,4 +1,4 @@
-name: validate JSON
+name: validate JSON files
 
 on:
   pull_request:
