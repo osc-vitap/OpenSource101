@@ -29,7 +29,7 @@
             "examples": [
                 "DOOM"
             ],
-            "pattern": "^\\S*$"
+            "pattern": "."
         },
         "favourite-language": {
             "$id": "#root/favourite-language",
@@ -39,7 +39,7 @@
             "examples": [
                 "Python"
             ],
-            "pattern": "^\\S*$"
+            "pattern": "^.$"
         },
         "favourite-color": {
             "$id": "#root/favourite-color",
