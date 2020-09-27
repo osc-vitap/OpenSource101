@@ -127,7 +127,7 @@ If you want to add something more, maybe a project, or a program, or just a phot
 
 You can. You can even add resources or YouTube links to videos you found useful for programming.
 
-Just create a **.json** file inside the "content sharing" folder and add links to anything you want to share. 
+Just create a **.json** file inside the "content-sharing" folder and add links to anything you want to share. 
 example :
 
 ```json
