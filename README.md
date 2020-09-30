@@ -1,7 +1,5 @@
 # Welcome to Hacktoberfest! 
 
-**NOTE : This repository will not be accepting any pull requests for now, visit us again at the start of October, when the contributions are marked for Hacktoberfest. Thanks for contributing to Open Source!**
-
 <p align="center">
     <img src="assets/hacktober-fest-logo.svg">
 </p>
