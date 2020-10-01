@@ -1,16 +1,6 @@
 {
-   "user_1":{
-    "github-username": "dat-adi",
-    "favourite-game": "Valorant",
-    "favourite-language": "Python",
-    "favourite-color": "#212121"
-   },
-
-   "user_2":{
-    "github-username": "Faizan Alam",
-    "favourite-game": "IGI",
-    "favourite-language": "Javascript",
-    "favourite-color": "#FFFFFF"
-
-   }
+   "github-username": "dat-adi",
+   "favourite-game": "Valorant",
+   "favourite-language": "Python",
+   "favourite-color": "#212121"
 }
