@@ -1,3 +1,7 @@
+---
+labels: invalid
+---
+
 <!-- ⚠️⚠️ Do Not Delete These Comments. ⚠️⚠️ -->
 <!-- Please read these comments/instructions carefully and do accordingly  -->
 <!-- Read our Code of Conduct: https://github.com/Open-Source-Community-VIT-AP/OpenSource101/blob/master/.github/CODE_OF_CONDUCT.md -->
