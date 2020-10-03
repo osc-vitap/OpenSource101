@@ -76,7 +76,7 @@ git checkout branch-name
 
 Viewing all the available branches for your repository,
 ```git
-git branch
+git branch -a
 ```
 
 <p align="center">
@@ -84,6 +84,8 @@ git branch
 </p>
 
 ### 4. Contribute!
+
+To help make contribution easy, we have made a fixed template for you to work on. Follow the steps provided below.
 
 We can finally get to contributing to the repository now!\
 Now that you've switched over to another branch, change directory into contributors.
@@ -117,7 +119,7 @@ If you want to add something more, maybe a project, or a program, or just a phot
 
 You can. You can even add resources or YouTube links to videos you found useful for programming.
 
-Just create a **.json** file inside the "content-sharing" folder and add links to anything you want to share. 
+Just create a **.json** file with your GitHub user name inside the "content-sharing" folder and add links to anything you want to share. 
 example :
 
 ```json
@@ -184,7 +186,7 @@ Now, that you've made your first pull request, it's time to explore the vast Ope
 Projects that can revolutionalize the way we look at things.\
 As well as create your own for other people to appreciate and contribute to!
 
-# *Get, Set, Hack!*
+# *Get, Set, Contribute!*
 
 <p align="center">
     <img src="assets/footercredits.png">
