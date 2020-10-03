@@ -7,7 +7,7 @@ labels: question
 ---
 
 <!-- ⚠️⚠️ Do Not Delete These Comments. ⚠️⚠️ -->
-<!-- Read our Code of Conduct: https://github.com/Open-Source-Community-VIT-AP/Hacktoberfest-2020/blob/master/.github/CODE_OF_CONDUCT.md -->
+<!-- Read our Code of Conduct: https://github.com/Open-Source-Community-VIT-AP/OpenSource101/blob/master/.github/CODE_OF_CONDUCT.md -->
 <!-- Please search existing issues to avoid creating duplicates. -->
 <!--- Provide a general summary of your question in the Title above -->
 

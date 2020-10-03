@@ -11,13 +11,13 @@ You can star and fork this repository on GitHub at the top of the repository.
 Forking allows you to create a version of the repository for yourself.\
 This allows you to make changes to the repository without requiring any permissions or interfering with the existing repository.\
 Now, redirect yourself to your fork of the repository, which should have a URL like so,
-> https://github.com/your-github-username/Hacktoberfest-2020
+> https://github.com/your-github-username/OpenSource101
 
 ### 2. Clone the repository to your local computer
 To make your own copy of the repository that you would want to contribute to, you'll need to clone it to your system for easier access.
 Using the `git clone` commmand, you could clone the repository to your local system.
 While the URL would essentially be like,
-> https://github.com/your-username/Hacktoberfest-2020.git
+> https://github.com/your-username/OpenSource101.git
 
 It's easier to just click on the clone icon and copy it to your clipboard.
 
@@ -101,7 +101,7 @@ example :
 }
 ```
 
-**Note** : Make sure your contributions are in line with our [Code of Conduct](https://github.com/Open-Source-Community-VIT-AP/Hacktoberfest-2020/blob/master/.github/CODE_OF_CONDUCT.md).
+**Note** : Make sure your contributions are in line with our [Code of Conduct](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/blob/master/.github/CODE_OF_CONDUCT.md).
 
 ### 5. Committing the changes
 
@@ -118,7 +118,7 @@ It is important to keep your local repository updated with the project in order 
 
 In order to create a remote for the fork, you'll need to specify a new remote upstream repoistory (the repository you forked from) to sync with the fork. You'll be using the `git remote add` command to do that.
 
-<pre>git remote add upstream https://github.com/Open-Source-Community-VIT-AP/Hacktoberfest-2020.git</pre>
+<pre>git remote add upstream https://github.com/Open-Source-Community-VIT-AP/OpenSource101.git</pre>
 
 **Note**: We have referenced the original repository as "upstream".
 

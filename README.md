@@ -1,38 +1,30 @@
-# Welcome to Hacktoberfest! 
+# Welcome to OpenSource101! 
 
 <p align="center">
-    <img src="assets/hacktober-fest-logo.svg">
+    <img src="assets/github-logo.jpg">
 </p>
 
-This is a starter repository made specifically so we can help you get your first pull request and submission for the [Hacktoberfest](https://hacktoberfest.digitalocean.com) .\
-Happy Hacking!
+This is a starter repository made specifically so we can help you get your first pull request and learn the basics of Git and GitHub.
 
 If you're a beginner and you've come looking for your first contribution, we are here to help.\
 We've provided the instructions for you to get started with contributing to Open Source. Scroll down for more info.
 
-## To get started with Hacktoberfest
-### 1. Register yourself for Hacktoberfest 2020
+## Prerequisites
+### 1. Install Git on your computer.
 
 <p align="center">
-    <img src="assets/website-front.PNG">
+    <img src="assets/git.png">
 </p>
 
-Register for the event by pressing on the blue `Start Hacking` button.\
-It should redirect you to the [login page](https://hacktoberfest.digitalocean.com/login) where you can link your GitHub page in order to track your progress with the pull requests for the event.
+Firstly, install Git onto your local system. If you are on linux or mac, you get Git pre-installed.\
+However, if you are on Windows you will have to install it. To do so, click [here](https://git-scm.com/).
 
-### 2. Tracking your progress
+### 2. Creating a GitHub account.
 
-<p align="center">
-    <img src="assets/website-progress.PNG">
-</p>
-
-Now, you should be able to see the progress you've made for Hacktober's pull request checks.\
-If you can make 4 valid pull requests, you can receive a limited edition T-shirt, or you can plant a tree!
+Head over to GitHub.com and create an account by signing up.
 
 ### 3. Now what?
 
-Now, you can start contributing to Open Source and with each successful pull request, you can be a part of Hacktoberfest within no time!\
-Hacktoberfest is a gathering of coders and geeks from all over the world, collaborating and learning from one another.\
 Open sourcing and contributing to the free internet is what drives the internet today, and everyone and every single contribution is appreciated in the Open Source world.\
 And, you can join us with your first pull request right here!
 
@@ -47,13 +39,13 @@ You can star and fork this repository on GitHub at the top of the repository.
 Forking allows you to create a version of the repository for yourself.\
 This allows you to make changes to the repository without requiring any permissions or interfering with the existing repository.\
 Now, redirect yourself to your fork of the repository, which should have a URL like so,
-> https://github.com/your-github-username/Hacktoberfest-2020
+> https://github.com/your-github-username/OpenSource101
 
 ### 2. Clone the repository to your local computer
 To make your own copy of the repository that you would want to contribute to, you'll need to clone it to your system for easier access.
 Using the `git clone` commmand, you could clone the repository to your local system.
 While the URL would essentially be like,
-> https://github.com/your-username/Hacktoberfest-2020.git
+> https://github.com/your-username/OpenSource101.git
 
 It's easier to just click on the clone icon and copy it to your clipboard.
 
@@ -137,7 +129,7 @@ example :
 }
 ```
 
-**Note** : Make sure your contributions are in line with our [Code of Conduct](https://github.com/Open-Source-Community-VIT-AP/Hacktoberfest-2020/blob/master/.github/CODE_OF_CONDUCT.md).
+**Note** : Make sure your contributions are in line with our [Code of Conduct](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/blob/master/.github/CODE_OF_CONDUCT.md).
 
 ### 5. Committing the changes
 
@@ -154,7 +146,7 @@ It is important to keep your local repository updated with the project in order 
 
 In order to create a remote for the fork, you'll need to specify a new remote upstream repoistory (the repository you forked from) to sync with the fork. You'll be using the `git remote add` command to do that.
 
-<pre>git remote add upstream https://github.com/Open-Source-Community-VIT-AP/Hacktoberfest-2020.git</pre>
+<pre>git remote add upstream https://github.com/Open-Source-Community-VIT-AP/OpenSource101.git</pre>
 
 **Note**: We have referenced the original repository as "upstream".
 
