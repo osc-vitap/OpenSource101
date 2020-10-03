@@ -84,7 +84,7 @@ git branch -a
 ```
 
 <p align="center">
-    <img src="assets/switch-branch.PNG">
+    <img src="assets/switch-branch.PNG" width="600px">
 </p>
 
 ### 4. Contribute!
