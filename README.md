@@ -4,6 +4,10 @@
     <img src="assets/github-logo.jpg">
 </p>
 
+###### ⚠️⚠️ This repository is excluded from Hacktoberfest in favour of promoting quality open source contributions. So pull requests here won't contribute towards your Hacktoberfest progress. The sole purpose of this repository is to help beginners learn Git & GitHub through easy first contribution, and we therefore are still welcoming pull requests here. 
+
+###### ⚠️⚠️ Pull requests made to this repository are automatically marked as spam and won't be counted towards your hacktoberfest progress.
+
 This is a starter repository made specifically so we can help you get your first pull request and learn the basics of Git and GitHub.
 
 If you're a beginner and you've come looking for your first contribution, we are here to help.\
