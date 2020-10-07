@@ -1,0 +1,17 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          pr-message: |
+            Hey @${{ github.actor }}!, thank you for contributing to open source!
+            Please note that this pull request won't be counted towards progress for hacktoberfest as it has been marked invalid.
+            This is done in order to maintain the quality standards of the event. Thank you!
+          issue-message: |
+            Hey @${{ github.actor }}!, thanks for dropping an issue. We will look into this as soon as possible.
