@@ -1,7 +1,10 @@
 # Welcome to OpenSource101! 
 
 <p align="center">
-    <img src="assets/github-logo.jpg">
+    <img src="assets/github-logo.jpg"></br></br>
+    <a href="http://discord.link/osc_vitap" alt="Discord" title="Open Source Community: VIT-AP Discord Server">
+    <img src="https://img.shields.io/discord/747728757053194252?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
 
 ###### ⚠️⚠️ This repository is excluded from Hacktoberfest in favour of promoting quality open source contributions. So pull requests here won't contribute towards your Hacktoberfest progress. The sole purpose of this repository is to help beginners learn Git & GitHub through easy first contribution, and we therefore are still welcoming pull requests here. 
