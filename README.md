@@ -91,10 +91,10 @@ git branch -a
 To help make contribution easy, we have made a fixed template for you to work on. Follow the steps provided below.
 
 We can finally get to contributing to the repository now!\
-Now that you've switched over to another branch, change directory into contributors.
+Now that you've switched over to another branch, change your directory to `contributors` using `cd contributors`.
 
 Create a file with your github username with a `.json` extension.\
-Example : *dat-adi.json*
+Example : *GITHUB-USERNAME.json* , where GITHUB-USERNAME is your current GitHub username.
 
 The contents of the JSON file in the below format,
 ```json
