@@ -2,7 +2,7 @@ import os
 import json
 
 def unify():
-    os.chdir('../contributors')
+    os.chdir('contributors')
     data = []
     for file in os.listdir():
         with open(file, 'r') as f:
