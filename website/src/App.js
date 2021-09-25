@@ -21,7 +21,7 @@ function App() {
   getapi();
   return (
     <div className="App">
-      <h1>Awesome Contribs</h1>
+      <h1>Awesome Contributors</h1>
       <div className="cards">
         {data.filter((val) =>{
             return val
