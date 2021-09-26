@@ -1,6 +1,9 @@
 name: unify
 
-on: [push]
+on:
+  push:
+    paths:
+      - 'contributors/**'
 
 jobs:
   build:
