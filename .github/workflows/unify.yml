@@ -2,6 +2,8 @@ name: unify
 
 on:
   push:
+    branches:
+      - master
     paths:
       - 'contributors/**'
 
