@@ -10,9 +10,9 @@ jobs:
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           pr-message: |
-            Hey @${{ github.actor }}!, thank you for contributing to open source!
+            Hey @${{ github.actor }}, thank you for contributing to the community!
             Congrats on making your pull request to OpenSource101! 
-            We will validate the PR and merge if no conflicts. 
-            All the best on your Open Source journey!!
+            We will validate the PR and merge it, if there are no conflicts. 
+            All the best on your Open Source journey!
           issue-message: |
             Hey @${{ github.actor }}!, thanks for dropping an issue. We will look into this as soon as possible.
