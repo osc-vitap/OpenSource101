@@ -1,15 +1,12 @@
 # Welcome to OpenSource101! 
 
 <p align="center">
-    <img src="assets/github-logo.jpg"></br></br>
+    <img src="assets/gitty-up.png"></br></br>
     <a href="http://discord.link/oscvitap" alt="Discord" title="Open Source Community: VIT-AP Discord Server">
     <img src="https://img.shields.io/discord/747728757053194252?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
-###### ⚠️⚠️ This repository is excluded from Hacktoberfest in favour of promoting quality open source contributions. So pull requests here won't contribute towards your Hacktoberfest progress. The sole purpose of this repository is to help beginners learn Git & GitHub through easy first contribution, and we therefore are still welcoming pull requests here. 
-
-###### ⚠️⚠️ Pull requests made to this repository are automatically marked as invalid and won't be counted towards your hacktoberfest progress. This repository is made for educational purposes only.
 
 This is a starter repository made specifically so we can help you get your first pull request and learn the basics of Git and GitHub.
 
@@ -28,7 +25,7 @@ However, if you are on Windows you will have to install it. To do so, click [her
 
 ### 2. Creating a GitHub account.
 
-Head over to GitHub.com and create an account by signing up.
+Head over to [GitHub.com](https://github.com) and create an account by signing up.
 
 ### 3. Now what?
 
@@ -68,7 +65,7 @@ After which, just direct yourself to whichever place you wish to clone the repos
 
 ### 3. Create a New Branch
 
-Direct yourself into the repository using `cd Hackoctoberfest-2020`.
+Direct yourself into the repository using `cd OpenSource101/`.
 Now, we'll create and switch onto the branch that we will be working on, for editing file in the project.
 
 Creating a branch,
@@ -76,7 +73,7 @@ Creating a branch,
 git branch branch-name
 ```
 
-Switching from master branch to another branch,
+Switching from main branch to another branch,
 ```git
 git checkout branch-name
 ```
@@ -138,7 +135,7 @@ example :
 }
 ```
 
-**Note** : Make sure your contributions are in line with our [Code of Conduct](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/blob/master/.github/CODE_OF_CONDUCT.md).
+**Note** : Make sure your contributions are in line with our [Code of Conduct](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/blob/main/.github/CODE_OF_CONDUCT.md).
 
 ### 5. Committing the changes
 
@@ -165,13 +162,13 @@ Once the remote references to the original repository you forked from, you are r
 
 <pre>git fetch upstream</pre>
 
-Once done, you need to switch back to the master branch, you can do this using
+Once done, you need to switch back to the main branch, you can do this using
 
-<pre>git checkout master</pre>
+<pre>git checkout main</pre>
 
-Now, merge changes made from the original repository's master branch with your current local master branch using
+Now, merge changes made from the original repository's main branch with your current local ,main branch using
 
-<pre>git merge upstream/master</pre>
+<pre>git merge upstream/main</pre>
 
 <p align="center">
     <img src="assets/repo-syncing.PNG">
