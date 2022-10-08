@@ -3,7 +3,7 @@ name: unify
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'contributors/**'
 
