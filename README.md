@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="assets/gitty-up.png"></br></br>
-    <a href="http://discord.link/oscvitap" alt="Discord" title="Open Source Community: VIT-AP Discord Server">
+    <a href="https://discord.com/invite/BXqm4PXq5p" alt="Discord" title="Open Source Community: VIT-AP Discord Server">
     <img src="https://img.shields.io/discord/747728757053194252?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
