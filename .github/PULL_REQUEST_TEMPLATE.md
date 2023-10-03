@@ -13,13 +13,13 @@ Name :
       
 Tick the check boxes below if true : 
 
-- [ ] I learnt to use Git and GitHub.
+- [X] I learnt to use Git and GitHub.
 
-- [ ] This is my first time contributing to Open Source.
+- [X] This is my first time contributing to Open Source.
 
-- [ ] I want to contribute more to Open Source.
+- [X] I want to contribute more to Open Source.
 
-On a scale of 1 - 10, 1 being very easy and 10 being hard, how difficult did you find it to create a pull request ? : 
+On a scale of 1 - 10, 1 being very easy and 10 being hard, how difficult did you find it to create a pull request ? : 8
 
 <br>
 
