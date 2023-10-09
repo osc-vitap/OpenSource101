@@ -10,7 +10,6 @@ body {
   justify-content: center;
   align-items: center;
   margin: auto;
-  border: 2px solid red;
 }
 .card {
   background-color: #558bff;
