@@ -11,6 +11,7 @@ function Cardui({ name, game, lang, color }) {
             <img
               className="imgc"
               src={`https://avatars.githubusercontent.com/${name}`}
+              alt={`of ${name}`}
             />
           </div>
           <div className="details">
