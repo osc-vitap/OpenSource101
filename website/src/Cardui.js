@@ -6,7 +6,7 @@ function Cardui({ name, game, lang, color }) {
   return (
     <div className="fadein">
       <div className="card card1">
-        <a href={url} target="_blank">
+        <a href={url} target="_blank" rel="noopener noreferrer">
           <div className="container">
             <img
               className="imgc"
