@@ -36,12 +36,12 @@
     transform: rotate(360deg);
   }
 }
-body{
+body {
   color: white;
 }
-h1{
+h1 {
   padding: 20px;
 }
-.button{
+.button {
   margin-bottom: 30px;
 }

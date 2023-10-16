@@ -1,5 +1,5 @@
 # Contributing to the Repository
-## Submission for Hacktoberfest 2020
+## Submission for Hacktoberfest 2023
 
 ### 1. Star and Fork this Repository
 You can star and fork this repository on GitHub at the top of the repository.
@@ -33,7 +33,7 @@ After which, just direct yourself to whichever place you wish to clone the repos
 
 ### 3. Create a New Branch
 
-Direct yourself into the repository using `cd Hackoctoberfest-2020`.
+Direct yourself into the repository using `cd OpenSource101/`.
 Now, we'll create and switch onto the branch that we will be working on, for editing file in the project.
 
 Creating a branch,
