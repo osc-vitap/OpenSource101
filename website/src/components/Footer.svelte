@@ -285,7 +285,7 @@
                     <ul class="space-y-4 text-sm">
                         <li>
                             <a
-                                href="https://wios.oscvitap.org/"
+                                href="https://wios.co.in/"
                                 class="text-gray-700 transition hover:opacity-75"
                                 rel="noreferrer"
                                 target="_blank"
