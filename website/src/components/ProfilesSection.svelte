@@ -1,7 +1,18 @@
 <script>
     import ProfileCard from "./ProfileCard.svelte";
-
-    import Contributers from "../../../.data/complete-data.json";
+    const apiURL = "https://raw.githubusercontent.com/osc-vitap/OpenSource101/main/.data/complete-data.json";
+    let ContributersObject = [];
+    let Contributers = [];
+    
+    fetch(apiURL)
+        .then((response) => response.json())
+        .then((data) => {
+            ContributersObject = data;
+            Contributers = Object.values(ContributersObject);
+        })
+        .catch((error) => {
+            console.error("Error:", error);
+        });
 </script>
 
 <section>
