@@ -1,0 +1,6 @@
+{
+    "github-username": "Raunak",
+    "favourite-game": "Valorant",
+    "favourite-language": "JAVA",
+    "favourite-color": "#FFFFFF"
+}
