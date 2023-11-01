@@ -58,7 +58,7 @@ git branch -a
 ### 4. Contribute!
 
 We can finally get to contributing to the repository now!\
-Now that you've switched over to another branch, change your directory to contributors using cd contributors.
+Now that you've switched over to another branch, change your directory to contributors using `cd contributors`.
 
 Create a file with your github username with a `.json` extension.\
 Example : *dat-adi.json*
