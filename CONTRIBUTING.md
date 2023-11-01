@@ -48,7 +48,7 @@ git checkout branch-name
 
 Viewing all the available branches for your repository,
 ```git
-git branch
+git branch -a
 ```
 
 <p align="center">
@@ -82,26 +82,6 @@ The contents of the JSON file in the below format,
 
 "favourite-color" can be any color in hex format (example: #FFF44F). You can pick any color from Google's color picker.
 ```
-
-### Want to add something more?
-
-If you want to add something more, maybe a project, or a program, or just a photograph you took, Maybe even showcase your website. 
-
-You can. You can even add resources or YouTube links to videos you found useful for programming.
-
-Just create a **.json** file inside the "content-sharing" folder and add links to anything you want to share. 
-example :
-
-```json
-{
-    "Resources" : ["https://www.youtube.com/user/thenewboston","https://docs.github.com/"],
-    "Projects" : ["https://github.com/torvalds/linux"],
-    "Images" : ["https://tinyurl.com/y45lx6oc"],
-    "Websites" : ["https://www.google.com/"]
-}
-```
-
-**Note** : Make sure your contributions are in line with our [Code of Conduct](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/blob/master/.github/CODE_OF_CONDUCT.md).
 
 ### 5. Committing the changes
 
