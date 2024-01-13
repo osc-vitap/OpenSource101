@@ -1,0 +1,6 @@
+{
+    "github-username": "ShraddhaMenon",
+    "favourite-game": "Genshin Impact",
+    "favourite-language": "Java",
+    "favourite-color": "#04224a"
+}
